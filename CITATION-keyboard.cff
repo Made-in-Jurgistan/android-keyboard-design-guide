@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this guide in your work, please cite it as below."
+title: "Android Keyboard Design Guide"
+type: software
+authors:
+  - name: "Made in Jurgistan"
+    website: "https://Made-in-Jurgistan.github.io"
+repository-code: "https://github.com/Made-in-Jurgistan/android-keyboard-design-guide-2026"
+url: "https://Made-in-Jurgistan.github.io/android-keyboard-design-guide/"
+version: "2026.2.0"
+date-released: "2026-01-15"
+license: CC-BY-SA-4.0
+keywords:
+  - Android keyboard
+  - IME
+  - InputMethodService
+  - Jetpack Compose
+  - Material You
+  - Kotlin
+  - accessibility
+  - haptic feedback
+  - gesture typing
+abstract: "The comprehensive resource for production-grade Android IME development. Covers API 30-36, Kotlin, Jetpack Compose, Material You 3.0, and advanced input features."
